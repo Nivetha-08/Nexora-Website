@@ -1,0 +1,28 @@
+@media (min-width: 1000px) {
+  #Navbar .dropdown-menu {
+    display: none !important;
+  }
+
+  #Navbar .dropdown:hover .dropdown-menu {
+    display: block !important;
+  }
+}
+
+#Navbar .nav-link.active {
+  font-weight: bolder !important;
+}
+
+#Navbar .dropdown-menu a:hover{
+  background: #6F42C1;
+  color: white;
+}
+
+#Navbar a.dropdown-item.active{
+  background: #6F42C1;
+  color: white;
+  font-weight: bolder;
+}
+
+
+
+

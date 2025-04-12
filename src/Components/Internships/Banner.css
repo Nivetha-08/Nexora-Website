@@ -1,0 +1,18 @@
+#Internships .icons{
+    font-size: 25px;
+    display: flex;
+    align-content: center;
+    color: #6F42C1;
+    padding-right: 5px;
+}
+
+#Internships .sub-content{
+    font-size: 20px  !important;
+}
+
+@media screen and (max-width: 480px){
+    #Internships .content{
+        text-align: justify !important;
+        /* background-color: antiquewhite; */
+    }
+}
