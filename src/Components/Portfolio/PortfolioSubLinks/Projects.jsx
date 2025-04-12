@@ -1,7 +1,6 @@
 import { useLocation } from "react-router";
 import Footer from "../../Common/Footer";
 import Nav from "../../Common/Nav";
-import "./Project.css";
 import React from "react";
 
 const Projects = () => {
