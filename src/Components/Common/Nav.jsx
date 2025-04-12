@@ -78,29 +78,3 @@ const Nav = () => {
 };
 
 export default Nav;
-
-/* 
-                  <li className="nav-item dropdown">
-                  <a
-                    className="nav-link dropdown-toggle text-white"
-                    href="#"
-                    role="button"
-                    data-bs-toggle="dropdown"
-                    aria-expanded="false"
-                  >
-                    Careers
-                  </a>
-                  <ul className="dropdown-menu">
-                    <li>
-                      <NavLink to="/jobs" className="dropdown-item">
-                        Jobs
-                      </NavLink>
-                    </li>
-                    <li>
-                      <NavLink to="/internships" className="dropdown-item">
-                        Internships
-                      </NavLink>
-                    </li>
-                  </ul>
-                </li>
-*/

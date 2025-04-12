@@ -17,7 +17,6 @@ const Links = () => {
   return (
     <>
       <section id="Links">
-        {/* <p className="text-center">Practise</p> */}
         <div className="nav-container m-5">
           {array.map((val, ind) => (
             <div key={ind} className="nav-item">

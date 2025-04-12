@@ -4,7 +4,6 @@ import { yupResolver } from "@hookform/resolvers/yup";
 import * as yup from "yup";
 import { IoMdMailUnread } from "react-icons/io";
 import "./Form.css";
-// import axios from "axios";
 
 const schema = yup.object().shape({
   name: yup
@@ -40,19 +39,6 @@ const Form = () => {
   } = useForm({
     resolver: yupResolver(schema),
   });
-
-  // const onSubmit = async (data) => {
-  //   try {
-  //     // console.log("form render");
-      
-  //     const response = await axios.post("http://localhost:3001/users", data);
-  //     alert("Data submitted successfully!");
-  //     console.log(response.data);
-  //     reset();
-  //   } catch (error) {
-  //     console.error("Error submitting data:", error);
-  //   }
-  // };
 
   const onSubmit = (data) =>{
     console.log(data);

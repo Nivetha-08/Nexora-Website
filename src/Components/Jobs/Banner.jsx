@@ -1,6 +1,5 @@
 import React from "react";
 import careers from "../../../public/assets/careers.avif";
-// import { MdKeyboardDoubleArrowRight } from "react-icons/md";
 import "./Banner.css";
 
 const Banner = () => {

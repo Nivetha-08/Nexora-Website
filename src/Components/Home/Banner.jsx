@@ -81,7 +81,7 @@ const Banner = () => {
                   className="d-block w-100 img-fluid"
                   alt="..."
                 />
-                <div className="carousel-caption d-none d-md-block">
+                <div className="carousel-caption d-none d-lg-block">
                   <h5>DNK</h5>
                   <p>
                     Raining Offers For Hot Summer...
@@ -94,7 +94,7 @@ const Banner = () => {
                   className="d-block w-100 img-fluid"
                   alt="..."
                 />
-                <div className="carousel-caption d-none d-md-block">
+                <div className="carousel-caption d-none d-lg-block">
                   <h5>OUTDOOR ADVENTURE</h5>
                   <p>
                     A Wounderful Gift...
@@ -107,7 +107,7 @@ const Banner = () => {
                   className="d-block w-100 img-fluid"
                   alt="..."
                 />
-                <div className="carousel-caption d-none d-md-block">
+                <div className="carousel-caption d-none d-lg-block">
                   <h5>Eagle</h5>
                   <p>
                     Once You Choose Hope Anything Is Possible...
@@ -120,7 +120,7 @@ const Banner = () => {
                   className="d-block w-100 img-fluid"
                   alt="..."
                 />
-                <div className="carousel-caption d-none d-md-block">
+                <div className="carousel-caption d-none d-lg-block">
                   <h5>URBAN JUNGLE CO</h5>
                   <p>
                     Discover The Beauty Of Nature At Your Fingertips...
@@ -133,7 +133,7 @@ const Banner = () => {
                   className="d-block w-100 img-fluid"
                   alt="..."
                 />
-                <div className="carousel-caption d-none d-md-block">
+                <div className="carousel-caption d-none d-lg-block">
                   <h5>PRECISION Engineering</h5>
                   <p>
                     We Are Global Manufacturing Leader...
@@ -146,7 +146,7 @@ const Banner = () => {
                   className="d-block w-100 img-fluid"
                   alt="..."
                 />
-                <div className="carousel-caption d-none d-md-block">
+                <div className="carousel-caption d-none d-lg-block">
                   <h5>EARTH</h5>
                   <p>
                     Earth endless potential...
@@ -159,7 +159,7 @@ const Banner = () => {
                   className="d-block w-100 img-fluid"
                   alt="..."
                 />
-                <div className="carousel-caption d-none d-md-block">
+                <div className="carousel-caption d-none d-lg-block">
                   <h5>LUMORA</h5>
                   <p>
                     Start Living Your Healthiest Life...
