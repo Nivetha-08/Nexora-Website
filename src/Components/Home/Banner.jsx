@@ -13,7 +13,7 @@ const Banner = () => {
 
   return (
     <>
-      <section id="Home-Banner" className="p-5">
+      <section id="Home-Banner" className="pt-5">
         <p className="heading" style={{ color: "#6F42C1" }}>
           Mobile And Web Applications
         </p>

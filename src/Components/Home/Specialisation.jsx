@@ -86,7 +86,7 @@ const Specialisation = () => {
             className="img-fluid rounded"
           />
           <h6 className="mt-4">{selected.title}</h6>
-          <p className="description p-sm-2 mb-5">{selected.description}</p>
+          <p className="description p-sm-2 mb-5 w-sm-95 w-md-60">{selected.description}</p>
         </div>
       </div>
     </div>
