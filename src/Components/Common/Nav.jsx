@@ -9,10 +9,10 @@ const Nav = () => {
   return (
     <>
       <section id="Navbar">
-        <nav className="navbar navbar-expand-md text-dark" style={{backgroundColor:"#6F42C1"}}>
+        <nav className="navbar navbar-expand-md" style={{backgroundColor:"#ED4AC0"}}>
           <div className="container-fluid">
-            <a className="navbar-brand text-white h1" href="#">
-              DevFlux
+            <a className="navbar-brand" href="#">
+             <h3>Nexora</h3>
             </a>
             <button
               className="navbar-toggler border-0 shadow-none"
@@ -31,23 +31,23 @@ const Nav = () => {
             >
               <ul className="navbar-nav mx-auto mb-2 mb-lg-0 gap-0 gap-md-5">
                 <li className="nav-item">
-                  <NavLink to="/" className="nav-link text-white">
+                  <NavLink to="/" className="nav-link">
                     Home
                   </NavLink>
                 </li>
                 <li className="nav-item">
-                  <NavLink to="/about" className="nav-link text-white ">
+                  <NavLink to="/about" className="nav-link">
                     About
                   </NavLink>
                 </li>
                 <li className="nav-item">
-                  <NavLink to="/portfolio" className="nav-link text-white ">
+                  <NavLink to="/portfolio" className="nav-link ">
                     Portfolio
                   </NavLink>
                 </li>
                 <li className="nav-item dropdown">
                   <button
-                    className="btn nav-link dropdown-toggle text-white"
+                    className="btn nav-link dropdown-toggle"
                     type="button"
                     data-bs-toggle="dropdown"
                     aria-expanded="false"
@@ -64,7 +64,7 @@ const Nav = () => {
                   </ul>
                 </li>
                 <li className="nav-item">
-                  <NavLink to="/contact" className="nav-link text-white">
+                  <NavLink to="/contact" className="nav-link">
                     Contact
                   </NavLink>
                 </li>

@@ -4,10 +4,10 @@
   justify-content: center;
   width: 30px; 
   height: 30px; 
-  border: 2px solid #f0f8ff; 
+  border: 2px solid black; 
   border-radius: 50%; 
   font-size: 18px; 
-  color: white;
+  color: black;
   text-decoration: none;
 }
 
@@ -15,3 +15,6 @@
   display: flex;
 }
 
+#Form-Section{
+  color: black;
+}

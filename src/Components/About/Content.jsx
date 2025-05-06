@@ -14,7 +14,7 @@ const Content = () => {
         <div className="col-md-6 content-text">
           <h1>WHO WE ARE ?</h1>
           <p>
-            We "DevFlux" are an Agile / DevOps software development company
+            We "Nexora" are an Agile / DevOps software development company
             providing WEB & MOBILE solutions of any complexity for B2B B2C use
             cases. As a company, we have more than 15 years of experience in
             technology service. Our experts design, develop and deliver scalable
@@ -37,7 +37,7 @@ const Content = () => {
           <p>
             Have peace of mind knowing you are working with one of the best
             bespoke Web and Mobile Application Development companies. Two key
-            things make "DevFlux" special: Our Process and Our Team.
+            things make "Nexora" special: Our Process and Our Team.
           </p>
         </div>
         <div className="col-md-6 text-center">

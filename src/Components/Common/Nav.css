@@ -13,16 +13,23 @@
 }
 
 #Navbar .dropdown-menu a:hover{
-  background: #6F42C1;
-  color: white;
+  background: #ED4AC0;
+  color: black;
 }
 
 #Navbar a.dropdown-item.active{
-  background: #6F42C1;
-  color: white;
+  background: #ED4AC0;
+  color: black;
   font-weight: bolder;
 }
 
+#Navbar{
+  color: black !important;
+}
 
-
-
+/* 
+  navbar - #ED4AC0
+  text - #B6288E
+  hover - #F292D7
+  button - #CB41A4
+*/

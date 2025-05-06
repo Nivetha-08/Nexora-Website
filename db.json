@@ -1,0 +1,685 @@
+{
+    "mobileApps": [
+      {
+        "id": 1,
+        "img1": "https://cdn.dribbble.com/userupload/11997030/file/original-1b0e9b6d36e20912f58a1312a0c61bc7.png?format=webp&resize=640x480&vertical=center",
+        "img2": "https://cdn.dribbble.com/userupload/42915721/file/original-d2fa86774e1023091f2e321d07455a29.png?format=webp&resize=400x300&vertical=center",
+        "img3": "https://cdn.dribbble.com/userupload/17309647/file/original-ad103198afe139584cebcbbdf8c3c242.jpg?format=webp&resize=400x300&vertical=center",
+        "title": "Fitness Tracker App",
+        "subheading": "Track, Analyze, and Improve Your Health Goals Seamlessly",
+        "content1": "The Fitness Tracker App Dashboard enables users to monitor physical activity, track calories burned, and measure progress across multiple health goals. The dashboard includes real-time heart rate monitoring, sleep tracking, and personalized fitness insights. Integration with wearable devices allows for seamless data collection and synchronization.",
+        "content2": "Users can set goals, receive daily reminders, and view weekly and monthly performance stats. The dashboard supports nutrition logging, water intake tracking, and offers AI-generated workout suggestions. With a clean UI and analytics tools, users can make informed health choices and maintain motivation on their fitness journey."
+      },
+      {
+        "id": 2,
+        "img1": "https://cdn.dribbble.com/userupload/16438782/file/original-d5a792ce6dd450439824b3ab626c4229.png?crop=0x0-1600x1200&format=webp&resize=400x300&vertical=center",
+        "img2": "https://cdn.dribbble.com/userupload/6106491/file/original-640b8f9fa8dd42ead4e4780165a4a2cc.jpg?format=webp&resize=400x300&vertical=center",
+        "img3": "https://cdn.dribbble.com/userupload/25578286/file/original-a34e3ec7542efb256630b9b58cb4df6e.png?format=webp&resize=400x300&vertical=center",
+        "title": "Food Delivery App",
+        "subheading": "Order, Track, and Pay for Meals from Local Restaurants",
+        "content1": "The Food Delivery Dashboard helps users discover local restaurants, customize orders, and track real-time delivery. It includes dynamic menu options, discount integration, and GPS tracking of the delivery agent. Payments can be made using credit, UPI, or wallets with full history available in the dashboard.",
+        "content2": "Restaurants can manage orders, inventory, and delivery personnel from their end. Users receive timely notifications and updates. Data export and daily analytics allow both users and vendors to gain insights into order trends and performance metrics, improving overall service quality."
+      },
+      {
+        "id": 3,
+        "img1": "https://cdn.dribbble.com/userupload/3387829/file/original-6b408770ae0ac195e1539b677ce1082f.png?format=webp&resize=400x300&vertical=center1",
+        "img2": "https://cdn.dribbble.com/userupload/37139858/file/original-f77f41c2f7e16c49fb7d3583e4b673c3.png?format=webp&resize=400x300&vertical=center",
+        "img3": "https://cdn.dribbble.com/userupload/6754963/file/original-a90222b01aa692bd5af57fe362834cb8.png?format=webp&resize=400x300&vertical=center",
+        "title": "Personal Finance App",
+        "subheading": "Track Expenses and Manage Budgets with Real-Time Insights",
+        "content1": "The Personal Finance Dashboard gives users complete control over their budgeting and spending. Categorize transactions, set saving goals, and visualize monthly trends with intuitive charts. The app integrates with bank accounts for auto-syncing and secure encryption.",
+        "content2": "Smart alerts help avoid overspending and track bill payments. Custom financial reports can be downloaded and shared. The dashboard also includes investment tracking and tips to improve financial habits over time."
+      },
+      {
+        "id": 4,
+        "img1": "https://cdn.dribbble.com/userupload/4160707/file/original-40c7dffe81bbd18501a43c8b954f8a66.png?format=webp&resize=400x300&vertical=center",
+        "img2": "https://cdn.dribbble.com/userupload/3926305/file/original-9fbeb19fd10b5b7054b63c76c7fb408e.png?format=webp&resize=400x300&vertical=center",
+        "img3": "https://cdn.dribbble.com/userupload/42491580/file/original-27eb9b6e572f34041de269337ddcfeab.png?format=webp&resize=400x300&vertical=center",
+        "title": "E-Commerce App",
+        "subheading": "Seamless Shopping and Order Management for Users and Sellers",
+        "content1": "The E-Commerce App Dashboard offers a central hub for buyers and sellers to manage orders, track inventory, and handle payments. Users can browse, search, and filter products while monitoring delivery updates in real-time.",
+        "content2": "Sellers can access performance analytics, revenue summaries, and inventory alerts. The dashboard supports secure payment gateways, easy refunds, and promo code management to enhance the shopping experience."
+      },
+      {
+        "id": 5,
+        "img1": "https://cdn.dribbble.com/userupload/14113969/file/original-68ca1b0d44a465c6e433ab176532b05e.png?crop=0x0-3232x2424&format=webp&resize=400x300&vertical=center",
+        "img2": "https://cdn.dribbble.com/userupload/16733339/file/original-d827028d7c36d4a131881f8be04d30b0.png?format=webp&resize=400x300&vertical=center",
+        "img3": "https://cdn.dribbble.com/userupload/15885794/file/original-2a9765c370bb3d359e37140acaa71ca4.png?format=webp&resize=400x300&vertical=center",
+        "title": "Ride-Sharing App",
+        "subheading": "Book Rides, Track Trips, and Pay with Ease",
+        "content1": "The Ride-Sharing App Dashboard lets users book rides, view ETA, and share trip details. Real-time GPS navigation ensures accurate pickups and drop-offs. Drivers and passengers can rate each other to maintain service quality.",
+        "content2": "The dashboard supports fare breakdown, trip history, and safety features like SOS alerts. Fleet managers get insights into driver performance, trip frequency, and peak-hour analytics to boost efficiency."
+      },
+      {
+        "id": 6,
+        "img1": "https://cdn.dribbble.com/userupload/39547334/file/original-0ab95d91c931af1e38957a31bfd181e0.png?format=webp&resize=400x300&vertical=center",
+        "img2": "https://cdn.dribbble.com/userupload/11435426/file/original-6aff5a9656f19979f52d8d6a6340d292.jpg?format=webp&resize=400x300&vertical=center",
+        "img3": "https://cdn.dribbble.com/userupload/28131079/file/original-ac1fb304d7ffd4c95604f50641d1f9c8.png?format=webp&resize=400x300&vertical=center",
+        "title": "Online Learning App",
+        "subheading": "Interactive Learning Tools with Progress Tracking",
+        "content1": "The Online Learning Dashboard is tailored for students and instructors. Users can access courses, join live classes, and track progress through quizzes and certificates. Multimedia support enhances engagement.",
+        "content2": "Teachers can monitor attendance, assignment submissions, and student scores. Admins can generate performance reports and manage course materials effortlessly from the centralized dashboard."
+      },
+      {
+        "id": 7,
+        "img1": "https://cdn.dribbble.com/userupload/5187525/file/original-8e5b115ef2a5fabdc27d099a646af7d0.png?format=webp&resize=400x300&vertical=center",
+        "img2": "https://cdn.dribbble.com/userupload/15698771/file/original-8c0f4015dd70161b82d2d1620db27a6e.png?format=webp&resize=400x300&vertical=center",
+        "img3": "https://cdn.dribbble.com/userupload/17104171/file/original-4210bc3d3a5a594eb8148240b2f23309.png?format=webp&resize=400x300&vertical=center",
+        "title": "Mobile Banking App",
+        "subheading": "Secure Transactions and Account Management Anytime",
+        "content1": "The Mobile Banking Dashboard provides users with real-time account balances, transaction history, and bill payment features. Multi-level authentication ensures secure access across all devices.",
+        "content2": "Users can transfer money, set up auto-debits, and download statements. The dashboard includes expense categorization, fraud detection alerts, and 24/7 chat support for instant help."
+      },
+      {
+        "id": 8,
+        "img1": "https://cdn.dribbble.com/userupload/28116911/file/original-823774ae39fc0437b027b5123aef4451.jpg?format=webp&resize=400x300&vertical=center",
+        "img2": "https://cdn.dribbble.com/userupload/3363866/file/still-c0bbde199ed80ce32827a6bec2a7bc1e.png?format=webp&resize=400x300&vertical=center",
+        "img3": "https://cdn.dribbble.com/userupload/12020712/file/original-37c7f2437f6e2f54fa05f692d241125d.jpg?format=webp&resize=400x300&vertical=center",
+        "title": "Travel Planner App",
+        "subheading": "Organize Your Trips with Custom Itinerary Features",
+        "content1": "The Travel Planner Dashboard allows users to create itineraries, book flights, and reserve accommodations from one place. It includes weather forecasts, location guides, and expense tracking.",
+        "content2": "The app supports group planning, shared travel documents, and real-time syncing across devices. Data export features allow easy sharing with friends and family members."
+      },
+      {
+        "id": 9,
+        "img1": "https://cdn.dribbble.com/userupload/42957170/file/original-3cd130591c622ffa0c4a5f3a5e02a7e6.png?format=webp&resize=400x300&vertical=center",
+        "img2": "https://cdn.dribbble.com/userupload/14781133/file/original-6b5cb7ea98c44e965c967f91cd87cac5.png?format=webp&resize=400x300&vertical=center",
+        "img3": "https://cdn.dribbble.com/userupload/6470099/file/original-3e78789444215f72bdecb8e9ea4d419d.png?format=webp&resize=400x300&vertical=center",
+        "title": "Music Streaming App",
+        "subheading": "Personalized Music Dashboard with AI Recommendations",
+        "content1": "The Music Dashboard enables seamless streaming, playlist creation, and artist tracking. Smart AI suggests songs based on listening history. Offline mode ensures access even without the internet.",
+        "content2": "Users can follow artists, share playlists, and check trending tracks. The dashboard also includes audio quality settings, subscription management, and detailed playback analytics."
+      },
+      {
+        "id": 10,
+        "img1": "https://cdn.dribbble.com/userupload/6594752/file/original-cdb31bcfd02bbfb9bad0d657f3e0068f.png?format=webp&resize=400x300&vertical=center",
+        "img2": "https://cdn.dribbble.com/userupload/16001896/file/original-0bf43ce996fb753ba406e15f92ea612b.png?format=webp&resize=400x300&vertical=center",
+        "img3": "https://cdn.dribbble.com/userupload/14775663/file/original-df2a0d22d832c438795ee755afe0054c.png?format=webp&resize=400x300&vertical=center",
+        "title": "Job Search App",
+        "subheading": "Track Job Applications and Manage Interviews in One Place",
+        "content1": "The Job Search Dashboard allows users to filter jobs, upload resumes, and track application status. Notifications alert users about interview calls, new job matches, and deadlines.",
+        "content2": "Employers can review applications, schedule interviews, and manage candidate pipelines. Reports on hiring metrics and user engagement help HR optimize the recruitment process."
+      }
+    ],
+
+    "index" : [
+      {
+        "id": 1,
+        "img1":"http://localhost:5173/public/assets/mobile1.avif",
+        "img2": "http://localhost:5173/public/assets/mobile2.avif",
+        "img3": "http://localhost:5173/public/assets/mobile3.avif",
+        "title": "Mobile Application",
+        "subheading": "Build a User-Friendly Grocery E-Commerce APP",
+        "content1": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsum, quod! Nobis et dolores ex sed totam cumque aspernatur dignissimos vitae tempora atque perferendis aliquam nisi nesciunt quis, cupiditate libero quae!",
+        "content2": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem esse soluta eius quasi excepturi consequatur omnis neque quia tempora at, cupiditate repudiandae blanditiis ipsum maxime quis saepe. Minus, qui perferendis."
+      },
+      {
+        "id": 2,
+        "img1":"http://localhost:5173/public/assets/web1.avif",
+        "img2": "http://localhost:5173/public/assets/web2.avif",
+        "img3": "http://localhost:5173/public/assets/web3.avif",
+        "title": "Web Application",
+        "subheading": "SEO Website Optimization Showcasing Data Driven Strategies",
+        "content1": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsum, quod! Nobis et dolores ex sed totam cumque aspernatur dignissimos vitae tempora atque perferendis aliquam nisi nesciunt quis, cupiditate libero quae!",
+        "content2": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem esse soluta eius quasi excepturi consequatur omnis neque quia tempora at, cupiditate repudiandae blanditiis ipsum maxime quis saepe. Minus, qui perferendis."
+      },
+      {
+        "id": 3,
+        "img1":"http://localhost:5173/public/assets/micro1.avif",
+        "img2": "http://localhost:5173/public/assets/micro2.avif",
+        "img3": "http://localhost:5173/public/assets/micro3.avif",
+        "title": "Micro Application",
+        "subheading": "Micro Application All In One Dashboard for Project Management and Scheduling",
+        "content1": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsum, quod! Nobis et dolores ex sed totam cumque aspernatur dignissimos vitae tempora atque perferendis aliquam nisi nesciunt quis, cupiditate libero quae!",
+        "content2": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem esse soluta eius quasi excepturi consequatur omnis neque quia tempora at, cupiditate repudiandae blanditiis ipsum maxime quis saepe. Minus, qui perferendis."
+      },
+      {
+        "id": 4,
+        "img1":"http://localhost:5173/public/assets/uiux1.avif",
+        "img2": "http://localhost:5173/public/assets/uiux2.avif",
+        "img3": "http://localhost:5173/public/assets/uiux3.avif",
+        "title": "UI/UX Design and Development",
+        "subheading": "Designing Meaningful Digital Products and Experience For You",
+        "content1": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsum, quod! Nobis et dolores ex sed totam cumque aspernatur dignissimos vitae tempora atque perferendis aliquam nisi nesciunt quis, cupiditate libero quae!",
+        "content2": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem esse soluta eius quasi excepturi consequatur omnis neque quia tempora at, cupiditate repudiandae blanditiis ipsum maxime quis saepe. Minus, qui perferendis."
+      },
+      {
+        "id": 5,
+        "img1":"http://localhost:5173/public/assets/digital1.avif",
+        "img2": "http://localhost:5173/public/assets/digital2.avif",
+        "img3": "http://localhost:5173/public/assets/digital3.avif",
+        "title": "Digital Marketing",
+        "subheading": "Streamline, Analyze and Optimize Your Marketing Efforts In One Dashboard",
+        "content1": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsum, quod! Nobis et dolores ex sed totam cumque aspernatur dignissimos vitae tempora atque perferendis aliquam nisi nesciunt quis, cupiditate libero quae!",
+        "content2": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem esse soluta eius quasi excepturi consequatur omnis neque quia tempora at, cupiditate repudiandae blanditiis ipsum maxime quis saepe. Minus, qui perferendis."
+      },
+      {
+        "id": 6,
+        "img1":"http://localhost:5173/public/assets/testing1.avif",
+        "img2": "http://localhost:5173/public/assets/testing2.avif",
+        "img3": "http://localhost:5173/public/assets/testing3.avif",
+        "title": "Testing Service",
+        "subheading": "Streamline, Analyze and Optimize Your Marketing Efforts In One Dashboard",
+        "content1": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsum, quod! Nobis et dolores ex sed totam cumque aspernatur dignissimos vitae tempora atque perferendis aliquam nisi nesciunt quis, cupiditate libero quae!",
+        "content2": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem esse soluta eius quasi excepturi consequatur omnis neque quia tempora at, cupiditate repudiandae blanditiis ipsum maxime quis saepe. Minus, qui perferendis."
+      }
+  ],
+
+  "webApps":[
+    {
+      "id": 1,
+      "img1": "https://cdn.dribbble.com/userupload/11653171/file/original-9922325888909435f9c978378239e86d.jpg?format=webp&resize=640x480&vertical=center",
+      "img2": "https://cdn.dribbble.com/userupload/15869058/file/original-ee55f03b45d97fcbeb82963f7916dfb5.jpg?format=webp&resize=640x480&vertical=center",
+      "img3": "https://cdn.dribbble.com/userupload/4057266/file/original-37ee069e219a4585c0324e825750152a.png?format=webp&resize=400x300&vertical=center",
+      "title": "Fitness Tracker App",
+      "subheading": "Track, Analyze, and Improve Your Health Goals Seamlessly",
+      "content1": "The Fitness Tracker App Dashboard enables users to monitor physical activity, track calories burned, and measure progress across multiple health goals. The dashboard includes real-time heart rate monitoring, sleep tracking, and personalized fitness insights. Integration with wearable devices allows for seamless data collection and synchronization.",
+      "content2": "Users can set goals, receive daily reminders, and view weekly and monthly performance stats. The dashboard supports nutrition logging, water intake tracking, and offers AI-generated workout suggestions. With a clean UI and analytics tools, users can make informed health choices and maintain motivation on their fitness journey."
+    },
+    {
+      "id": 2,
+      "img1": "https://cdn.dribbble.com/userupload/6347235/file/original-09dfa724e3b05988d6113899602f8aed.png?format=webp&resize=400x300&vertical=center",
+      "img2": "https://cdn.dribbble.com/userupload/41513687/file/original-0613616b1b74aa710eaf41e664c5cedd.webp?format=webp&resize=400x300&vertical=center",
+      "img3": "https://cdn.dribbble.com/userupload/4244539/file/original-80cc29a9b07010a240e60891e661a828.png?format=webp&resize=400x300&vertical=center",
+      "title": "Food Delivery App",
+      "subheading": "Order, Track, and Pay for Meals from Local Restaurants",
+      "content1": "The Food Delivery Dashboard helps users discover local restaurants, customize orders, and track real-time delivery. It includes dynamic menu options, discount integration, and GPS tracking of the delivery agent. Payments can be made using credit, UPI, or wallets with full history available in the dashboard.",
+      "content2": "Restaurants can manage orders, inventory, and delivery personnel from their end. Users receive timely notifications and updates. Data export and daily analytics allow both users and vendors to gain insights into order trends and performance metrics, improving overall service quality."
+    },
+    {
+      "id": 3,
+      "img1": "https://cdn.dribbble.com/userupload/24928541/file/original-a5b60ff96b097d7efbbdca4da7228d52.jpg?format=webp&resize=400x300&vertical=center",
+      "img2": "https://cdn.dribbble.com/userupload/17472561/file/original-ff41b29a2397322d167e9daed6f9d949.png?crop=0x0-1900x1425&format=webp&resize=400x300&vertical=center",
+      "img3": "https://cdn.dribbble.com/userupload/17561918/file/original-58092dffb958acf3726891223831a4e8.png?format=webp&resize=400x300&vertical=center",
+      "title": "Mobile Banking App",
+      "subheading": "Manage Your Finances Safely and Conveniently Anywhere",
+      "content1": "The Mobile Banking Dashboard provides users with secure access to accounts, transaction history, fund transfers, and bill payments. It supports biometric login, two-factor authentication, and fraud detection alerts. Real-time balance updates and investment tracking offer full control over personal finances.",
+      "content2": "With budgeting tools, automatic categorization of expenses, and financial reports, users can stay on top of their spending. Banks can also use backend dashboards to monitor transactions, customer engagement, and product performance, ensuring better user experience and fraud prevention."
+    },
+    {
+      "id": 4,
+      "img1": "https://cdn.dribbble.com/userupload/30758567/file/original-a87d9b0a92cd34c0506247ce2ec1a8b3.png?format=webp&resize=400x300&vertical=center",
+      "img2": "https://cdn.dribbble.com/userupload/9563398/file/original-788cb9416c4de8de18240b4c2e82cba9.jpg?crop=0x0-4800x3600&format=webp&resize=400x300&vertical=center",
+      "img3": "https://cdn.dribbble.com/userupload/4250463/file/original-24643628febe8ef4d63857043a877b8c.png?format=webp&resize=400x300&vertical=center",
+      "title": "Ride Sharing App",
+      "subheading": "Book and Track Rides with Real-Time Updates",
+      "content1": "The Ride Sharing Dashboard allows users to book rides, view fare estimates, and track drivers live on a map. It supports fare splitting, SOS safety alerts, and multi-stop routing. The dashboard gives insights into past rides, driver ratings, and carbon footprint tracking.",
+      "content2": "Drivers have a separate dashboard to accept trips, monitor earnings, and get route guidance. Real-time updates, surge pricing indicators, and performance summaries help streamline ride management for both riders and drivers, enhancing trust and efficiency."
+    },
+    {
+      "id": 5,
+      "img1": "https://cdn.dribbble.com/userupload/17909276/file/original-6a0cc678c7b9b7463a155d6a28c7ac29.png?crop=0x0-3201x2401&format=webp&resize=400x300&vertical=center",
+      "img2": "https://cdn.dribbble.com/userupload/14927287/file/still-633bf4d96913a38bd5d7bb067d03049d.png?format=webp&resize=400x300&vertical=center",
+      "img3": "https://cdn.dribbble.com/userupload/15805310/file/original-4113fba6ad49b7df7fe3e4eec0cf9d87.png?format=webp&resize=400x300&vertical=center",
+      "title": "E-learning App",
+      "subheading": "Learn Anything, Anytime with Interactive Courses",
+      "content1": "The E-learning App Dashboard allows users to enroll in courses, track lesson completion, and access live sessions or recorded videos. It includes performance analytics, quiz modules, and progress reports for learners and instructors.",
+      "content2": "Instructors can manage course content, evaluate assignments, and interact with students via announcements and discussions. The dashboard supports certification, mobile notifications, and AI-driven suggestions to enhance the learning experience."
+    },
+    {
+      "id": 6,
+      "img1": "https://cdn.dribbble.com/userupload/27700243/file/original-e80b7753b37f231a34828bb0326a7c7a.png?format=webp&resize=400x300&vertical=center",
+      "img2": "https://cdn.dribbble.com/userupload/27131831/file/original-a64b7394fffa0192835a031c4862ba75.png?format=webp&resize=400x300&vertical=center",
+      "img3": "https://cdn.dribbble.com/userupload/29654077/file/original-d6bcd472126e64e227815b1ec1bdb4cb.png?format=webp&resize=400x300&vertical=center",
+      "title": "E-commerce App",
+      "subheading": "Shop Smarter with Personalized Deals and Quick Checkout",
+      "content1": "The E-commerce App Dashboard allows customers to browse products, manage wishlists, apply discount codes, and check order history. Integrated payment gateways offer multiple options like credit card, UPI, and wallet.",
+      "content2": "Sellers can manage inventory, analyze sales reports, and track customer behavior using backend dashboards. The app supports push notifications for deals and updates, improving user engagement and sales conversion."
+    },
+    {
+      "id": 7,
+      "img1": "https://cdn.dribbble.com/userupload/32827180/file/original-f77bae25a4dabfc895214e49ae0e8760.png?format=webp&resize=400x300&vertical=center",
+      "img2": "https://cdn.dribbble.com/userupload/9717259/file/original-16ca2075f29dca8ac409308eb8a71a40.png?format=webp&resize=400x300&vertical=center",
+      "img3": "https://cdn.dribbble.com/userupload/38781312/file/original-c00144b55bb81bfea1f9a00611db7297.jpg?format=webp&resize=400x300&vertical=center",
+      "title": "News Aggregator App",
+      "subheading": "Stay Informed with Personalized News and Real-Time Alerts",
+      "content1": "The News App Dashboard collects articles from various sources, sorts them by category, and displays trending content. Users can personalize feeds, save articles, and receive breaking news notifications.",
+      "content2": "The backend dashboard allows content managers to monitor views, click rates, and engagement trends. Ads and sponsored content can be placed strategically, increasing monetization opportunities."
+    },
+    {
+      "id": 8,
+      "img1": "https://cdn.dribbble.com/userupload/35932193/file/original-225d7753427f5230cc8f900603d78a55.png?format=webp&resize=400x300&vertical=center",
+      "img2": "https://cdn.dribbble.com/userupload/11223915/file/original-f072e40c4a2753ca4be662760b7440ad.png?format=webp&resize=400x300&vertical=center",
+      "img3": "https://cdn.dribbble.com/userupload/8089412/file/original-13113ebf299762ca4d5206fda3f5b77b.png?format=webp&resize=400x300&vertical=center",
+      "title": "Music Streaming App",
+      "subheading": "Listen to Your Favorite Songs, Anywhere, Anytime",
+      "content1": "The Music App Dashboard lets users stream songs, create playlists, and follow artists. It includes lyrics, recommendations, offline downloads, and recently played history.",
+      "content2": "Musicians and publishers use dashboards to upload content, track royalties, and analyze listener trends. Ads and subscription plans are also managed here, offering monetization flexibility."
+    },
+    {
+      "id": 9,
+      "img1": "https://cdn.dribbble.com/userupload/6374694/file/original-b17c3cf374cbc242a0dd17d853eeb6ce.png?format=webp&resize=400x300&vertical=center",
+      "img2": "https://cdn.dribbble.com/userupload/9213502/file/original-7ba21b7f7030d4b9059deca43a101482.png?format=webp&resize=400x300&vertical=center",
+      "img3": "https://cdn.dribbble.com/userupload/38657144/file/original-6c23b0c7c4498d11c5e6cbe48683a753.png?format=webp&resize=400x300&vertical=center",
+      "title": "Job Search App",
+      "subheading": "Find and Apply for Jobs that Match Your Skills",
+      "content1": "The Job App Dashboard shows job listings based on skills, experience, and location. Users can upload resumes, apply directly, and receive updates on application status.",
+      "content2": "Employers can post jobs, filter applicants, and schedule interviews. The dashboard offers analytics on views, saves, and application trends to help improve hiring efficiency."
+    },
+    {
+      "id": 10,
+      "img1": "https://cdn.dribbble.com/userupload/2552783/file/original-ae01336dcc0539bd21b45f71514fb24e.png?format=webp&resize=400x300&vertical=center",
+      "img2": "https://cdn.dribbble.com/userupload/2585579/file/original-d366548fb6d0e4ba9d7723ebd099c8a4.png?format=webp&resize=400x300&vertical=center",
+      "img3": "https://cdn.dribbble.com/userupload/15773188/file/original-15ae41d60b3edc902cf91dced5625df9.jpg?format=webp&resize=400x300&vertical=center",
+      "title": "Car Rental App",
+      "subheading": "Book, Track, and Pay for Vehicles Anytime, Anywhere",
+      "content1": "The Car Rental App Dashboard offers a complete vehicle booking experience with real-time availability, pricing comparison, and GPS-based pickup and drop options. The platform supports ID verification, document uploads, and rental history tracking to ensure safe and smooth transactions.",
+      "content2": "Users can manage bookings, view payment summaries, and report issues directly via the dashboard. Business owners can monitor fleet performance, driver behavior, and revenue. Notifications ensure timely renewals and returns, while detailed reports support business decisions."
+    }
+  ],
+
+  "microApps" : [
+    {
+      "id": 1,
+      "img1": "https://cdn.dribbble.com/userupload/40487429/file/original-0a0e003a679d99cbe999987b1859bfce.png?format=webp&resize=640x480&vertical=center",
+      "img2": "https://cdn.dribbble.com/userupload/40507424/file/original-29a680fcb7fbff51e4577bf64f835d82.jpg?format=webp&resize=640x480&vertical=center",
+      "img3": "https://cdn.dribbble.com/userupload/40416367/file/original-b9b851f51a70dbfd04d3d9793d29bde6.png?format=webp&resize=400x300&vertical=center",
+      "title": "Fitness Tracker App",
+      "subheading": "Track, Analyze, and Improve Your Health Goals Seamlessly",
+      "content1": "The Fitness Tracker App Dashboard enables users to monitor physical activity, track calories burned, and measure progress across multiple health goals. The dashboard includes real-time heart rate monitoring, sleep tracking, and personalized fitness insights. Integration with wearable devices allows for seamless data collection and synchronization.",
+      "content2": "Users can set goals, receive daily reminders, and view weekly and monthly performance stats. The dashboard supports nutrition logging, water intake tracking, and offers AI-generated workout suggestions. With a clean UI and analytics tools, users can make informed health choices and maintain motivation on their fitness journey."
+    },
+    {
+      "id": 2,
+      "img1": "https://cdn.dribbble.com/userupload/8386669/file/original-a098e359649ea14612616847021a3710.png?format=webp&resize=400x300&vertical=center",
+      "img2": "https://cdn.dribbble.com/userupload/26636859/file/original-d9eeac9e7232ce615e6d8095140c3f2f.png?format=webp&resize=400x300&vertical=center",
+      "img3": "https://cdn.dribbble.com/userupload/17936197/file/original-2991ff0161287a9e880265efa0b9cd85.jpg?format=webp&resize=400x300&vertical=center",
+      "title": "Food Delivery App",
+      "subheading": "Order, Track, and Pay for Meals from Local Restaurants",
+      "content1": "The Food Delivery Dashboard helps users discover local restaurants, customize orders, and track real-time delivery. It includes dynamic menu options, discount integration, and GPS tracking of the delivery agent. Payments can be made using credit, UPI, or wallets with full history available in the dashboard.",
+      "content2": "Restaurants can manage orders, inventory, and delivery personnel from their end. Users receive timely notifications and updates. Data export and daily analytics allow both users and vendors to gain insights into order trends and performance metrics, improving overall service quality."
+    },
+    {
+      "id": 3,
+      "img1": "https://cdn.dribbble.com/userupload/3238013/file/original-b059607e6db6fcaf45d974457ab97ff6.png?crop=0x0-1600x1200&format=webp&resize=400x300&vertical=center",
+      "img2": "https://cdn.dribbble.com/userupload/42036583/file/original-bdcc3aafc0fe5585dd8e57f76c193881.jpg?format=webp&resize=400x300&vertical=center",
+      "img3": "https://cdn.dribbble.com/userupload/34374780/file/original-f4b2cf2597abb804a4edecda58c6d365.png?format=webp&resize=400x300&vertical=center",
+      "title": "Mobile Banking App",
+      "subheading": "Manage Your Finances Safely and Conveniently Anywhere",
+      "content1": "The Mobile Banking Dashboard provides users with secure access to accounts, transaction history, fund transfers, and bill payments. It supports biometric login, two-factor authentication, and fraud detection alerts. Real-time balance updates and investment tracking offer full control over personal finances.",
+      "content2": "With budgeting tools, automatic categorization of expenses, and financial reports, users can stay on top of their spending. Banks can also use backend dashboards to monitor transactions, customer engagement, and product performance, ensuring better user experience and fraud prevention."
+    },
+    {
+      "id": 4,
+      "img1": "https://cdn.dribbble.com/userupload/31387139/file/original-fe7aa668a090099f92dafe9b05700c5b.jpg?format=webp&resize=400x300&vertical=center ",
+      "img2": "https://cdn.dribbble.com/userupload/3131429/file/original-e536a2918a9ae558358d2396ad246421.png?format=webp&resize=400x300&vertical=center",
+      "img3": "https://cdn.dribbble.com/userupload/37464117/file/original-996f846028a3545484382a51d9c5f841.webp?format=webp&resize=400x300&vertical=center",
+      "title": "Ride Sharing App",
+      "subheading": "Book and Track Rides with Real-Time Updates",
+      "content1": "The Ride Sharing Dashboard allows users to book rides, view fare estimates, and track drivers live on a map. It supports fare splitting, SOS safety alerts, and multi-stop routing. The dashboard gives insights into past rides, driver ratings, and carbon footprint tracking.",
+      "content2": "Drivers have a separate dashboard to accept trips, monitor earnings, and get route guidance. Real-time updates, surge pricing indicators, and performance summaries help streamline ride management for both riders and drivers, enhancing trust and efficiency."
+    },
+    {
+      "id": 5,
+      "img1": "https://cdn.dribbble.com/userupload/4164330/file/original-f0c6c7bf34acfea14747f08492aec58e.png?format=webp&resize=400x300&vertical=center",
+      "img2": "https://cdn.dribbble.com/userupload/17083937/file/original-d5809f10948a2869848bb723b51f57a8.png?crop=0x0-4096x3072&format=webp&resize=400x300&vertical=center",
+      "img3": "https://cdn.dribbble.com/userupload/32293592/file/original-d267d6b304e9d9c2617f00f2e304c486.png?format=webp&resize=400x300&vertical=center",
+      "title": "E-learning App",
+      "subheading": "Learn Anything, Anytime with Interactive Courses",
+      "content1": "The E-learning App Dashboard allows users to enroll in courses, track lesson completion, and access live sessions or recorded videos. It includes performance analytics, quiz modules, and progress reports for learners and instructors.",
+      "content2": "Instructors can manage course content, evaluate assignments, and interact with students via announcements and discussions. The dashboard supports certification, mobile notifications, and AI-driven suggestions to enhance the learning experience."
+    },
+    {
+      "id": 6,
+      "img1": "https://cdn.dribbble.com/userupload/3233024/file/original-cc0f626f890f62dd6332dbb2bc54294e.png?format=webp&resize=400x300&vertical=center",
+      "img2": "https://cdn.dribbble.com/userupload/37566547/file/original-00ed5036b95e61c9223b61b9a17ee724.png?format=webp&resize=400x300&vertical=center",
+      "img3": "https://cdn.dribbble.com/userupload/43071885/file/original-d2b85fb59df6e0a85c1332aef107f3ef.jpg?format=webp&resize=400x300&vertical=center",
+      "title": "E-commerce App",
+      "subheading": "Shop Smarter with Personalized Deals and Quick Checkout",
+      "content1": "The E-commerce App Dashboard allows customers to browse products, manage wishlists, apply discount codes, and check order history. Integrated payment gateways offer multiple options like credit card, UPI, and wallet.",
+      "content2": "Sellers can manage inventory, analyze sales reports, and track customer behavior using backend dashboards. The app supports push notifications for deals and updates, improving user engagement and sales conversion."
+    },
+    {
+      "id": 7,
+      "img1": "https://cdn.dribbble.com/userupload/42085177/file/original-7950d704308cd915a9e5e08a975e8a2a.jpg?format=webp&resize=400x300&vertical=center",
+      "img2": "https://cdn.dribbble.com/userupload/10202529/file/original-c43899999e56cb0bbd79c82cb798afb2.png?format=webp&resize=400x300&vertical=center",
+      "img3": "https://cdn.dribbble.com/userupload/4167364/file/original-9dd0b708b6aa6fe53c88f0d94b782e0d.jpg?format=webp&resize=400x300&vertical=center",
+      "title": "News Aggregator App",
+      "subheading": "Stay Informed with Personalized News and Real-Time Alerts",
+      "content1": "The News App Dashboard collects articles from various sources, sorts them by category, and displays trending content. Users can personalize feeds, save articles, and receive breaking news notifications.",
+      "content2": "The backend dashboard allows content managers to monitor views, click rates, and engagement trends. Ads and sponsored content can be placed strategically, increasing monetization opportunities."
+    },
+    {
+      "id": 8,
+      "img1": "https://cdn.dribbble.com/userupload/27967055/file/original-970ae7d2d9548b66b0e8a400c3415f01.png?format=webp&resize=400x300&vertical=center",
+      "img2": "https://cdn.dribbble.com/userupload/42728072/file/original-669499022832c99272f621ff2c661989.png?crop=0x0-2800x2100&format=webp&resize=400x300&vertical=center",
+      "img3": "https://cdn.dribbble.com/userupload/42829850/file/original-80244614a1bc9c42e567d818826b0e1f.png?crop=0x0-2800x2100&format=webp&resize=400x300&vertical=center",
+      "title": "Music Streaming App",
+      "subheading": "Listen to Your Favorite Songs, Anywhere, Anytime",
+      "content1": "The Music App Dashboard lets users stream songs, create playlists, and follow artists. It includes lyrics, recommendations, offline downloads, and recently played history.",
+      "content2": "Musicians and publishers use dashboards to upload content, track royalties, and analyze listener trends. Ads and subscription plans are also managed here, offering monetization flexibility."
+    },
+    {
+      "id": 9,
+      "img1": "https://cdn.dribbble.com/userupload/42011359/file/original-603a17e378ce1a7df44314bbdcd4cb82.png?format=webp&resize=400x300&vertical=center",
+      "img2": "https://cdn.dribbble.com/userupload/4149302/file/original-4290e7870fd10f979ebaa349a9c583d4.png?format=webp&resize=400x300&vertical=center",
+      "img3": "https://cdn.dribbble.com/userupload/11323565/file/original-4bc8a9c2e271b94832945d56d215b6a4.png?format=webp&resize=400x300&vertical=center",
+      "title": "Job Search App",
+      "subheading": "Find and Apply for Jobs that Match Your Skills",
+      "content1": "The Job App Dashboard shows job listings based on skills, experience, and location. Users can upload resumes, apply directly, and receive updates on application status.",
+      "content2": "Employers can post jobs, filter applicants, and schedule interviews. The dashboard offers analytics on views, saves, and application trends to help improve hiring efficiency."
+    },
+    {
+      "id": 10,
+      "img1": "https://cdn.dribbble.com/userupload/3131429/file/original-e536a2918a9ae558358d2396ad246421.png?format=webp&resize=400x300&vertical=center",
+      "img2": "https://cdn.dribbble.com/userupload/37464117/file/original-996f846028a3545484382a51d9c5f841.webp?format=webp&resize=400x300&vertical=center",
+      "img3": "https://cdn.dribbble.com/userupload/4149302/file/original-4290e7870fd10f979ebaa349a9c583d4.png?format=webp&resize=400x300&vertical=center",
+      "title": "Car Rental App",
+      "subheading": "Book, Track, and Pay for Vehicles Anytime, Anywhere",
+      "content1": "The Car Rental App Dashboard offers a complete vehicle booking experience with real-time availability, pricing comparison, and GPS-based pickup and drop options. The platform supports ID verification, document uploads, and rental history tracking to ensure safe and smooth transactions.",
+      "content2": "Users can manage bookings, view payment summaries, and report issues directly via the dashboard. Business owners can monitor fleet performance, driver behavior, and revenue. Notifications ensure timely renewals and returns, while detailed reports support business decisions."
+    }
+  ],
+
+  "uiuxDesign": [
+    {
+      "id": 1,
+      "img1": "https://img.freepik.com/free-vector/gradient-ui-ux-background_23-2149052117.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "img2": "https://img.freepik.com/free-photo/ui-ux-representations-with-laptop_23-2150201871.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "img3": "https://img.freepik.com/free-vector/gradient-ui-ux-elements-background_23-2149056159.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740 ",
+      "title": "Fitness Tracker App",
+      "subheading": "Track, Analyze, and Improve Your Health Goals Seamlessly",
+      "content1": "The Fitness Tracker App Dashboard enables users to monitor physical activity, track calories burned, and measure progress across multiple health goals. The dashboard includes real-time heart rate monitoring, sleep tracking, and personalized fitness insights. Integration with wearable devices allows for seamless data collection and synchronization.",
+      "content2": "Users can set goals, receive daily reminders, and view weekly and monthly performance stats. The dashboard supports nutrition logging, water intake tracking, and offers AI-generated workout suggestions. With a clean UI and analytics tools, users can make informed health choices and maintain motivation on their fitness journey."
+    },
+    {
+      "id": 2,
+      "img1": "https://img.freepik.com/free-vector/gradient-ui-ux-background_23-2149024129.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "img2": "https://img.freepik.com/free-vector/mobile-ui-ux-concept-illustration_114360-11697.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "img3": "https://img.freepik.com/free-vector/linear-flat-ui-ux-landing-page-template_23-2149047070.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "title": "Food Delivery App",
+      "subheading": "Order, Track, and Pay for Meals from Local Restaurants",
+      "content1": "The Food Delivery Dashboard helps users discover local restaurants, customize orders, and track real-time delivery. It includes dynamic menu options, discount integration, and GPS tracking of the delivery agent. Payments can be made using credit, UPI, or wallets with full history available in the dashboard.",
+      "content2": "Restaurants can manage orders, inventory, and delivery personnel from their end. Users receive timely notifications and updates. Data export and daily analytics allow both users and vendors to gain insights into order trends and performance metrics, improving overall service quality."
+    },
+    {
+      "id": 3,
+      "img1": "https://img.freepik.com/free-photo/representations-user-experience-interface-design_23-2150038916.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "img2": "https://img.freepik.com/free-photo/representations-user-experience-interface-design_23-2150104516.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "img3": "https://img.freepik.com/free-vector/linear-flat-ui-ux-landing-page-template_23-2149047070.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "title": "Mobile Banking App",
+      "subheading": "Manage Your Finances Safely and Conveniently Anywhere",
+      "content1": "The Mobile Banking Dashboard provides users with secure access to accounts, transaction history, fund transfers, and bill payments. It supports biometric login, two-factor authentication, and fraud detection alerts. Real-time balance updates and investment tracking offer full control over personal finances.",
+      "content2": "With budgeting tools, automatic categorization of expenses, and financial reports, users can stay on top of their spending. Banks can also use backend dashboards to monitor transactions, customer engagement, and product performance, ensuring better user experience and fraud prevention."
+    },
+    {
+      "id": 4,
+      "img1": "https://img.freepik.com/premium-vector/gradient-mobile-ui-ux-design_52683-164191.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "img2": "https://img.freepik.com/premium-psd/mobile-app-development-landing-page_483364-1932.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "img3": "https://img.freepik.com/premium-photo/meeting-table-with-graphic-designer-team-various-prototype-new-mobile-application_67155-43057.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "title": "Ride Sharing App",
+      "subheading": "Book and Track Rides with Real-Time Updates",
+      "content1": "The Ride Sharing Dashboard allows users to book rides, view fare estimates, and track drivers live on a map. It supports fare splitting, SOS safety alerts, and multi-stop routing. The dashboard gives insights into past rides, driver ratings, and carbon footprint tracking.",
+      "content2": "Drivers have a separate dashboard to accept trips, monitor earnings, and get route guidance. Real-time updates, surge pricing indicators, and performance summaries help streamline ride management for both riders and drivers, enhancing trust and efficiency."
+    },
+    {
+      "id": 5,
+      "img1": "https://img.freepik.com/premium-vector/gradient-ui-ux-landing-page_52683-69727.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "img2": "https://img.freepik.com/premium-vector/gradient-mobile-ui-ux-design_52683-164191.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "img3": "https://img.freepik.com/free-vector/gradient-ui-ux-background-illustrated_23-2149050182.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "title": "E-learning App",
+      "subheading": "Learn Anything, Anytime with Interactive Courses",
+      "content1": "The E-learning App Dashboard allows users to enroll in courses, track lesson completion, and access live sessions or recorded videos. It includes performance analytics, quiz modules, and progress reports for learners and instructors.",
+      "content2": "Instructors can manage course content, evaluate assignments, and interact with students via announcements and discussions. The dashboard supports certification, mobile notifications, and AI-driven suggestions to enhance the learning experience."
+    },
+    {
+      "id": 6,
+      "img1": "https://img.freepik.com/free-vector/gradient-ui-ux-background_23-2149051556.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "img2": "https://img.freepik.com/free-vector/flat-design-ui-ux-background_23-2149093995.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "img3": "https://img.freepik.com/free-vector/gradient-ui-ux-landing-page-template_23-2149053801.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "title": "E-commerce App",
+      "subheading": "Shop Smarter with Personalized Deals and Quick Checkout",
+      "content1": "The E-commerce App Dashboard allows customers to browse products, manage wishlists, apply discount codes, and check order history. Integrated payment gateways offer multiple options like credit card, UPI, and wallet.",
+      "content2": "Sellers can manage inventory, analyze sales reports, and track customer behavior using backend dashboards. The app supports push notifications for deals and updates, improving user engagement and sales conversion."
+    },
+    {
+      "id": 7,
+      "img1": "https://img.freepik.com/free-vector/gradient-ui-ux-landing-page_52683-69534.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "img2": "https://img.freepik.com/free-vector/gradient-style-ui-ux-background_52683-69621.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "img3": "https://img.freepik.com/premium-vector/realistic-ui-ux-design-illustration_23-2151590870.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "title": "News Aggregator App",
+      "subheading": "Stay Informed with Personalized News and Real-Time Alerts",
+      "content1": "The News App Dashboard collects articles from various sources, sorts them by category, and displays trending content. Users can personalize feeds, save articles, and receive breaking news notifications.",
+      "content2": "The backend dashboard allows content managers to monitor views, click rates, and engagement trends. Ads and sponsored content can be placed strategically, increasing monetization opportunities."
+    },
+    {
+      "id": 8,
+      "img1": "https://img.freepik.com/free-vector/gradient-ui-ux-background_52683-69316.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "img2": "https://img.freepik.com/premium-vector/gradient-mobile-ui-ux-design_52683-163599.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "img3": "https://img.freepik.com/premium-vector/gradient-uiux-background_1323905-25.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "title": "Music Streaming App",
+      "subheading": "Listen to Your Favorite Songs, Anywhere, Anytime",
+      "content1": "The Music App Dashboard lets users stream songs, create playlists, and follow artists. It includes lyrics, recommendations, offline downloads, and recently played history.",
+      "content2": "Musicians and publishers use dashboards to upload content, track royalties, and analyze listener trends. Ads and subscription plans are also managed here, offering monetization flexibility."
+    },
+    {
+      "id": 9,
+      "img1": "https://img.freepik.com/free-photo/representations-user-experience-interface-design_23-2150038907.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "img2": "https://img.freepik.com/free-vector/gradient-ui-ux-landing-page-template_23-2149024126.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "img3": "https://img.freepik.com/free-vector/linear-flat-ui-ux-landing-page-template_23-2149047074.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "title": "Job Search App",
+      "subheading": "Find and Apply for Jobs that Match Your Skills",
+      "content1": "The Job App Dashboard shows job listings based on skills, experience, and location. Users can upload resumes, apply directly, and receive updates on application status.",
+      "content2": "Employers can post jobs, filter applicants, and schedule interviews. The dashboard offers analytics on views, saves, and application trends to help improve hiring efficiency."
+    },
+    {
+      "id": 10,
+      "img1": "https://img.freepik.com/free-vector/gradient-ui-ux-background_23-2149065782.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "img2": "https://img.freepik.com/premium-vector/young-woman-creates-custom-design-mobile-application-ui-ux-design-flat-character-concept-web-design_130740-695.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "img3": "https://img.freepik.com/free-vector/mobile-ui-ux-concept-illustration_114360-10976.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "title": "Car Rental App",
+      "subheading": "Book, Track, and Pay for Vehicles Anytime, Anywhere",
+      "content1": "The Car Rental App Dashboard offers a complete vehicle booking experience with real-time availability, pricing comparison, and GPS-based pickup and drop options. The platform supports ID verification, document uploads, and rental history tracking to ensure safe and smooth transactions.",
+      "content2": "Users can manage bookings, view payment summaries, and report issues directly via the dashboard. Business owners can monitor fleet performance, driver behavior, and revenue. Notifications ensure timely renewals and returns, while detailed reports support business decisions."
+    }
+  ],
+  
+  "digitalMarketing" : [
+    {
+      "id": 1,
+      "img1": "https://img.freepik.com/premium-photo/magic-media_1173597-1133.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "img2": "https://img.freepik.com/free-photo/social-media-marketing-concept-marketing-with-applications_23-2150063134.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "img3": "https://img.freepik.com/free-photo/corporate-management-strategy-solution-branding-concept_53876-167088.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "title": "Fitness Tracker App",
+      "subheading": "Track, Analyze, and Improve Your Health Goals Seamlessly",
+      "content1": "The Fitness Tracker App Dashboard enables users to monitor physical activity, track calories burned, and measure progress across multiple health goals. The dashboard includes real-time heart rate monitoring, sleep tracking, and personalized fitness insights. Integration with wearable devices allows for seamless data collection and synchronization.",
+      "content2": "Users can set goals, receive daily reminders, and view weekly and monthly performance stats. The dashboard supports nutrition logging, water intake tracking, and offers AI-generated workout suggestions. With a clean UI and analytics tools, users can make informed health choices and maintain motivation on their fitness journey."
+    },
+    {
+      "id": 2,
+      "img1": "https://img.freepik.com/premium-photo/search-engine-marketing-composition-design_23-2150923510.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "img2": "https://img.freepik.com/free-photo/digital-marketing-with-icons-business-people_53876-94833.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "img3": "https://img.freepik.com/free-photo/map-lying-wooden-table_53876-105723.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "title": "Food Delivery App",
+      "subheading": "Order, Track, and Pay for Meals from Local Restaurants",
+      "content1": "The Food Delivery Dashboard helps users discover local restaurants, customize orders, and track real-time delivery. It includes dynamic menu options, discount integration, and GPS tracking of the delivery agent. Payments can be made using credit, UPI, or wallets with full history available in the dashboard.",
+      "content2": "Restaurants can manage orders, inventory, and delivery personnel from their end. Users receive timely notifications and updates. Data export and daily analytics allow both users and vendors to gain insights into order trends and performance metrics, improving overall service quality."
+    },
+    {
+      "id": 3,
+      "img1": "https://img.freepik.com/free-photo/hand-holding-smartphone-social-media-concept_23-2150208245.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "img2": "https://img.freepik.com/free-photo/marketing-ideas-share-research-planning-concept_53876-127431.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "img3": "https://img.freepik.com/free-photo/top-viewtop-view-manager-employee-doing-teamwork-business-office-looking-charts-laptop-display_482257-2443.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "title": "Mobile Banking App",
+      "subheading": "Manage Your Finances Safely and Conveniently Anywhere",
+      "content1": "The Mobile Banking Dashboard provides users with secure access to accounts, transaction history, fund transfers, and bill payments. It supports biometric login, two-factor authentication, and fraud detection alerts. Real-time balance updates and investment tracking offer full control over personal finances.",
+      "content2": "With budgeting tools, automatic categorization of expenses, and financial reports, users can stay on top of their spending. Banks can also use backend dashboards to monitor transactions, customer engagement, and product performance, ensuring better user experience and fraud prevention."
+    },
+    {
+      "id": 4,
+      "img1": "https://img.freepik.com/free-vector/illustration-social-media-concept_53876-18312.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "img2": "https://img.freepik.com/free-vector/marketing-consulting-concept-illustration_114360-9027.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "img3": "https://img.freepik.com/free-vector/mobile-marketing-isometric-style_23-2148896785.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "title": "Ride Sharing App",
+      "subheading": "Book and Track Rides with Real-Time Updates",
+      "content1": "The Ride Sharing Dashboard allows users to book rides, view fare estimates, and track drivers live on a map. It supports fare splitting, SOS safety alerts, and multi-stop routing. The dashboard gives insights into past rides, driver ratings, and carbon footprint tracking.",
+      "content2": "Drivers have a separate dashboard to accept trips, monitor earnings, and get route guidance. Real-time updates, surge pricing indicators, and performance summaries help streamline ride management for both riders and drivers, enhancing trust and efficiency."
+    },
+    {
+      "id": 5,
+      "img1": "https://img.freepik.com/premium-photo/digital-online-marketing-businessman-using-tablet-analyzing-sales-data-graph-growth-modern-interface-icon-strategy-solution-analysis-content-development_43780-8090.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "img2": "https://img.freepik.com/premium-vector/rocket-boosting-digital-marketing-social-media-with-smartphone_112255-1435.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "img3": "https://img.freepik.com/premium-vector/social-media-marketing-with-laptop-boost-rocket_112255-1347.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "title": "E-learning App",
+      "subheading": "Learn Anything, Anytime with Interactive Courses",
+      "content1": "The E-learning App Dashboard allows users to enroll in courses, track lesson completion, and access live sessions or recorded videos. It includes performance analytics, quiz modules, and progress reports for learners and instructors.",
+      "content2": "Instructors can manage course content, evaluate assignments, and interact with students via announcements and discussions. The dashboard supports certification, mobile notifications, and AI-driven suggestions to enhance the learning experience."
+    },
+    {
+      "id": 6,
+      "img1": "https://img.freepik.com/premium-photo/digital-marketing-business-concept_714192-6.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "img2": "https://img.freepik.com/free-vector/digital-marketing-landing-page_33099-1726.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "img3": "https://img.freepik.com/free-photo/hands-holding-smartphone-social-media-concept_23-2150208239.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "title": "E-commerce App",
+      "subheading": "Shop Smarter with Personalized Deals and Quick Checkout",
+      "content1": "The E-commerce App Dashboard allows customers to browse products, manage wishlists, apply discount codes, and check order history. Integrated payment gateways offer multiple options like credit card, UPI, and wallet.",
+      "content2": "Sellers can manage inventory, analyze sales reports, and track customer behavior using backend dashboards. The app supports push notifications for deals and updates, improving user engagement and sales conversion."
+    },
+    {
+      "id": 7,
+      "img1": "https://img.freepik.com/free-photo/full-shot-woman-reading-with-smartphone_23-2149629602.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "img2": "https://img.freepik.com/premium-photo/medium-shot-woman-influencer-marketing_23-2150521899.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "img3": "https://img.freepik.com/premium-photo/medium-shot-woman-influencer-marketing_23-2150521879.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "title": "News Aggregator App",
+      "subheading": "Stay Informed with Personalized News and Real-Time Alerts",
+      "content1": "The News App Dashboard collects articles from various sources, sorts them by category, and displays trending content. Users can personalize feeds, save articles, and receive breaking news notifications.",
+      "content2": "The backend dashboard allows content managers to monitor views, click rates, and engagement trends. Ads and sponsored content can be placed strategically, increasing monetization opportunities."
+    },
+    {
+      "id": 8,
+      "img1": "https://img.freepik.com/free-photo/man-suit-standing-office-with-clipboard-pointing-poster-with-words_1098-17121.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "img2": "https://img.freepik.com/free-photo/html-css-collage-concept-with-person_23-2150061967.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "img3": "https://img.freepik.com/free-photo/social-media-concept-composition_23-2150169142.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "title": "Music Streaming App",
+      "subheading": "Listen to Your Favorite Songs, Anywhere, Anytime",
+      "content1": "The Music App Dashboard lets users stream songs, create playlists, and follow artists. It includes lyrics, recommendations, offline downloads, and recently played history.",
+      "content2": "Musicians and publishers use dashboards to upload content, track royalties, and analyze listener trends. Ads and subscription plans are also managed here, offering monetization flexibility."
+    },
+    {
+      "id": 9,
+      "img1": "https://img.freepik.com/premium-photo/digital-marketing-new-startup-project-online-search-engine-optimisation_36325-2205.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "img2": "https://img.freepik.com/premium-photo/digital-design-businessman-show-growth-graph-earning-with-digital-marketing-strategy_35761-549.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "img3": "https://img.freepik.com/free-photo/modern-equipped-computer-lab_23-2149241213.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "title": "Job Search App",
+      "subheading": "Find and Apply for Jobs that Match Your Skills",
+      "content1": "The Job App Dashboard shows job listings based on skills, experience, and location. Users can upload resumes, apply directly, and receive updates on application status.",
+      "content2": "Employers can post jobs, filter applicants, and schedule interviews. The dashboard offers analytics on views, saves, and application trends to help improve hiring efficiency."
+    },
+    {
+      "id": 10,
+      "img1": "https://img.freepik.com/free-vector/social-tree-concept-illustration_114360-4898.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "img2": "https://img.freepik.com/premium-photo/businessman-holding-hand-drawn-web-icons_117023-658.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "img3": "https://img.freepik.com/free-photo/media-hub-digital-community-icon_53876-13809.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "title": "Car Rental App",
+      "subheading": "Book, Track, and Pay for Vehicles Anytime, Anywhere",
+      "content1": "The Car Rental App Dashboard offers a complete vehicle booking experience with real-time availability, pricing comparison, and GPS-based pickup and drop options. The platform supports ID verification, document uploads, and rental history tracking to ensure safe and smooth transactions.",
+      "content2": "Users can manage bookings, view payment summaries, and report issues directly via the dashboard. Business owners can monitor fleet performance, driver behavior, and revenue. Notifications ensure timely renewals and returns, while detailed reports support business decisions."
+    }
+  ],
+  
+  "testingServices" : [
+    {
+      "id": 1,
+      "img1": "https://img.freepik.com/free-vector/web-design-concept-presenting-content-web-pages-website-layout-composition-color-development-idea-computer-technology-flat-vector-illustration_613284-1991.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "img2": "https://img.freepik.com/free-vector/software-tester-concept-illustration_114360-12815.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=7402",
+      "img3": "https://img.freepik.com/free-vector/tiny-people-testing-quality-assurance-software-isolated-flat-vector-illustration-cartoon-character-fixing-bugs-hardware-device-application-test-it-service-concept_74855-10172.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "title": "Fitness Tracker App",
+      "subheading": "Track, Analyze, and Improve Your Health Goals Seamlessly",
+      "content1": "The Fitness Tracker App Dashboard enables users to monitor physical activity, track calories burned, and measure progress across multiple health goals. The dashboard includes real-time heart rate monitoring, sleep tracking, and personalized fitness insights. Integration with wearable devices allows for seamless data collection and synchronization.",
+      "content2": "Users can set goals, receive daily reminders, and view weekly and monthly performance stats. The dashboard supports nutrition logging, water intake tracking, and offers AI-generated workout suggestions. With a clean UI and analytics tools, users can make informed health choices and maintain motivation on their fitness journey."
+    },
+    {
+      "id": 2,
+      "img1": "https://img.freepik.com/free-vector/software-tester-concept-illustration_114360-11976.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "img2": "https://img.freepik.com/free-vector/software-code-testing-concept-illustration_114360-8414.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "img3": "https://img.freepik.com/premium-vector/concept-isometric-illustration-battery-warning-case_18660-2055.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "title": "Food Delivery App",
+      "subheading": "Order, Track, and Pay for Meals from Local Restaurants",
+      "content1": "The Food Delivery Dashboard helps users discover local restaurants, customize orders, and track real-time delivery. It includes dynamic menu options, discount integration, and GPS tracking of the delivery agent. Payments can be made using credit, UPI, or wallets with full history available in the dashboard.",
+      "content2": "Restaurants can manage orders, inventory, and delivery personnel from their end. Users receive timely notifications and updates. Data export and daily analytics allow both users and vendors to gain insights into order trends and performance metrics, improving overall service quality."
+    },
+    {
+      "id": 3,
+      "img1": "https://img.freepik.com/free-vector/online-test-concept-illustration_114360-30917.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "img2": "https://img.freepik.com/free-vector/programmer-online-service-platform-coding-testing-writing-program-website-development-optimization-testing-program-isolated-vector-illustration_613284-3353.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "img3": "https://img.freepik.com/free-vector/frontend-development-concept-website-interface-design-improvement-web-page-programming-coding-testing-it-profession-isolated-flat-vector-illustration_613284-1218.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "title": "Mobile Banking App",
+      "subheading": "Manage Your Finances Safely and Conveniently Anywhere",
+      "content1": "The Mobile Banking Dashboard provides users with secure access to accounts, transaction history, fund transfers, and bill payments. It supports biometric login, two-factor authentication, and fraud detection alerts. Real-time balance updates and investment tracking offer full control over personal finances.",
+      "content2": "With budgeting tools, automatic categorization of expenses, and financial reports, users can stay on top of their spending. Banks can also use backend dashboards to monitor transactions, customer engagement, and product performance, ensuring better user experience and fraud prevention."
+    },
+    {
+      "id": 4,
+      "img1": "https://img.freepik.com/premium-vector/3d-composition-cartoon-isometric-style-application-website-testing-bug-fixing_165932-911.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "img2": "https://img.freepik.com/free-vector/computer-troubleshooting-concept-illustration_114360-7616.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "img3": "https://img.freepik.com/free-vector/mobile-testing-concept-illustration_114360-1585.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "title": "Ride Sharing App",
+      "subheading": "Book and Track Rides with Real-Time Updates",
+      "content1": "The Ride Sharing Dashboard allows users to book rides, view fare estimates, and track drivers live on a map. It supports fare splitting, SOS safety alerts, and multi-stop routing. The dashboard gives insights into past rides, driver ratings, and carbon footprint tracking.",
+      "content2": "Drivers have a separate dashboard to accept trips, monitor earnings, and get route guidance. Real-time updates, surge pricing indicators, and performance summaries help streamline ride management for both riders and drivers, enhancing trust and efficiency."
+    },
+    {
+      "id": 5,
+      "img1": "https://img.freepik.com/premium-photo/concept-testing-technology-internet-networking_220873-12407.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "img2": "https://img.freepik.com/free-vector/developer-activity-concept-illustration_114360-1981.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "img3": "https://img.freepik.com/free-vector/website-maintenance-abstract-concept-vector-illustration-website-service-webpage-seo-maintenance-web-design-corporate-site-professional-support-security-analysis-update-abstract-metaphor_335657-2295.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "title": "E-learning App",
+      "subheading": "Learn Anything, Anytime with Interactive Courses",
+      "content1": "The E-learning App Dashboard allows users to enroll in courses, track lesson completion, and access live sessions or recorded videos. It includes performance analytics, quiz modules, and progress reports for learners and instructors.",
+      "content2": "Instructors can manage course content, evaluate assignments, and interact with students via announcements and discussions. The dashboard supports certification, mobile notifications, and AI-driven suggestions to enhance the learning experience."
+    },
+    {
+      "id": 6,
+      "img1": "hhttps://img.freepik.com/premium-vector/testing-typographic-header-application-website-code_277904-14955.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "img2": "https://img.freepik.com/premium-vector/software-testing-with-desktop-computer-cartoon-vector-illustration-isolated_181313-3191.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "img3": "https://img.freepik.com/premium-vector/testing-typographic-header_277904-9136.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "title": "E-commerce App",
+      "subheading": "Shop Smarter with Personalized Deals and Quick Checkout",
+      "content1": "The E-commerce App Dashboard allows customers to browse products, manage wishlists, apply discount codes, and check order history. Integrated payment gateways offer multiple options like credit card, UPI, and wallet.",
+      "content2": "Sellers can manage inventory, analyze sales reports, and track customer behavior using backend dashboards. The app supports push notifications for deals and updates, improving user engagement and sales conversion."
+    },
+    {
+      "id": 7,
+      "img1": "https://img.freepik.com/premium-vector/usability-testing-isolated-cartoon-vector-illustrations_107173-22504.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "img2": "https://img.freepik.com/premium-vector/bug-tracking-vector-illustration-with-mobile-phone-protection-from-computer-virus-big-screen-website-security-flat-cartoon-hand-drawn-templates_2175-15295.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "img3": "https://img.freepik.com/premium-vector/flat-design-concept-update-maintenance_18660-494.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "title": "News Aggregator App",
+      "subheading": "Stay Informed with Personalized News and Real-Time Alerts",
+      "content1": "The News App Dashboard collects articles from various sources, sorts them by category, and displays trending content. Users can personalize feeds, save articles, and receive breaking news notifications.",
+      "content2": "The backend dashboard allows content managers to monitor views, click rates, and engagement trends. Ads and sponsored content can be placed strategically, increasing monetization opportunities."
+    },
+    {
+      "id": 8,
+      "img1": "https://img.freepik.com/free-vector/b-split-testing-cartoon-banner-website-comparison_107791-3686.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "img2": "https://img.freepik.com/free-vector/information-tab-concept-illustration_114360-4868.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "img3": "https://img.freepik.com/free-vector/website-setup-concept-landing-page_23-2148309688.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "title": "Music Streaming App",
+      "subheading": "Listen to Your Favorite Songs, Anywhere, Anytime",
+      "content1": "The Music App Dashboard lets users stream songs, create playlists, and follow artists. It includes lyrics, recommendations, offline downloads, and recently played history.",
+      "content2": "Musicians and publishers use dashboards to upload content, track royalties, and analyze listener trends. Ads and subscription plans are also managed here, offering monetization flexibility."
+    },
+    {
+      "id": 9,
+      "img1": "https://img.freepik.com/premium-vector/people-testing-software-fixing-bugs-hardware-device_186332-605.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "img2": "https://img.freepik.com/premium-vector/software-testing-vector-illustration-with-application-programming-coding-hand-drawn-templates_2175-16889.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=7402",
+      "img3": "https://img.freepik.com/free-vector/process-optimization-concept-illustration_114360-21583.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "title": "Job Search App",
+      "subheading": "Find and Apply for Jobs that Match Your Skills",
+      "content1": "The Job App Dashboard shows job listings based on skills, experience, and location. Users can upload resumes, apply directly, and receive updates on application status.",
+      "content2": "Employers can post jobs, filter applicants, and schedule interviews. The dashboard offers analytics on views, saves, and application trends to help improve hiring efficiency."
+    },
+    {
+      "id": 10,
+      "img1": "https://img.freepik.com/premium-photo/finger-touching-tablet-with-web-technology-icons-concept_1077205-3155.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "img2": "https://img.freepik.com/premium-vector/people-testing-software-fixing-bugs-hardware-device-application-test-it-service-concept-vector-illustration-flat_186332-982.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "img3": "https://img.freepik.com/premium-vector/software-testing-vector-illustration-featuring-application-engineering-debugging-development-process-programming-coding-flat-background_2175-25606.jpg?ga=GA1.1.417625023.1744439985&semt=ais_hybrid&w=740",
+      "title": "Car Rental App",
+      "subheading": "Book, Track, and Pay for Vehicles Anytime, Anywhere",
+      "content1": "The Car Rental App Dashboard offers a complete vehicle booking experience with real-time availability, pricing comparison, and GPS-based pickup and drop options. The platform supports ID verification, document uploads, and rental history tracking to ensure safe and smooth transactions.",
+      "content2": "Users can manage bookings, view payment summaries, and report issues directly via the dashboard. Business owners can monitor fleet performance, driver behavior, and revenue. Notifications ensure timely renewals and returns, while detailed reports support business decisions."
+    }
+  ]
+  
+  
+  }
+  

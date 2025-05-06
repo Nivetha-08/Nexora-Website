@@ -10,11 +10,11 @@ const Banner = () => {
     <>
       <section
         id="About-Banner"
-        className="mt-5 m-md-5 text-light py-3"
-        style={{backgroundColor:"#6F42C1"}}
+        className="mt-5 m-md-5 py-3"
+        style={{backgroundColor:"#F292D7"}}
       >
         <div>
-          <p className="heading">We Are DevFlux</p>
+          <p className="heading">We Are Nexora</p>
           <p className="subheading">
             Design and Development innovation inspiration
           </p>

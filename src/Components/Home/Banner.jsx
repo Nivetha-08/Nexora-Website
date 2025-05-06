@@ -1,6 +1,6 @@
 import React from "react";
 import "./Banner.css";
-import carousel1 from "../../../public/assets/carousel1.png";
+import carousel1 from "../../../public/assets/carousel1.png"
 import carousel2 from "../../../public/assets/carousel2.png";
 import carousel3 from "../../../public/assets/carousel3.png";
 import carousel4 from "../../../public/assets/carousel4.png";
@@ -14,11 +14,13 @@ const Banner = () => {
   return (
     <>
       <section id="Home-Banner" className="pt-5">
-        <p className="heading" style={{ color: "#6F42C1" }}>
-          Mobile And Web Applications
-        </p>
+        <p className="heading" style={{color:"#B6288E"}}>Mobile And Web Applications</p>
         <p className="subHeading">Design & Development</p>
-        <div className="container">   
+        <p className="pt-3 px-2 content text-center">
+          we design, develop, and deliver scalable web apps using industry best
+          practices for top performance and user experence.
+        </p>
+        <div className="container pt-5">
           <div
             id="carouselExampleIndicators"
             className="carousel slide"
@@ -71,9 +73,7 @@ const Banner = () => {
                 />
                 <div className="carousel-caption d-none d-lg-block">
                   <h5>DNK</h5>
-                  <p>
-                    Raining Offers For Hot Summer...
-                  </p>
+                  <p>Raining Offers For Hot Summer...</p>
                 </div>
               </div>
               <div className="carousel-item" data-bs-interval="2000">
@@ -84,9 +84,7 @@ const Banner = () => {
                 />
                 <div className="carousel-caption d-none d-lg-block">
                   <h5>OUTDOOR ADVENTURE</h5>
-                  <p>
-                    A Wounderful Gift...
-                  </p>
+                  <p>A Wounderful Gift...</p>
                 </div>
               </div>
               <div className="carousel-item" data-bs-interval="2000">
@@ -97,9 +95,7 @@ const Banner = () => {
                 />
                 <div className="carousel-caption d-none d-lg-block">
                   <h5>Eagle</h5>
-                  <p>
-                    Once You Choose Hope Anything Is Possible...
-                  </p>
+                  <p>Once You Choose Hope Anything Is Possible...</p>
                 </div>
               </div>
               <div className="carousel-item" data-bs-interval="2000">
@@ -110,9 +106,7 @@ const Banner = () => {
                 />
                 <div className="carousel-caption d-none d-lg-block">
                   <h5>URBAN JUNGLE CO</h5>
-                  <p>
-                    Discover The Beauty Of Nature At Your Fingertips...
-                  </p>
+                  <p>Discover The Beauty Of Nature At Your Fingertips...</p>
                 </div>
               </div>
               <div className="carousel-item" data-bs-interval="2000">
@@ -123,9 +117,7 @@ const Banner = () => {
                 />
                 <div className="carousel-caption d-none d-lg-block">
                   <h5>PRECISION Engineering</h5>
-                  <p>
-                    We Are Global Manufacturing Leader...
-                  </p>
+                  <p>We Are Global Manufacturing Leader...</p>
                 </div>
               </div>
               <div className="carousel-item" data-bs-interval="2000">
@@ -136,9 +128,7 @@ const Banner = () => {
                 />
                 <div className="carousel-caption d-none d-lg-block">
                   <h5>EARTH</h5>
-                  <p>
-                    Earth endless potential...
-                  </p>
+                  <p>Earth endless potential...</p>
                 </div>
               </div>
               <div className="carousel-item" data-bs-interval="2000">
@@ -149,9 +139,7 @@ const Banner = () => {
                 />
                 <div className="carousel-caption d-none d-lg-block">
                   <h5>LUMORA</h5>
-                  <p>
-                    Start Living Your Healthiest Life...
-                  </p>
+                  <p>Start Living Your Healthiest Life...</p>
                 </div>
               </div>
             </div>

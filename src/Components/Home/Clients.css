@@ -1,13 +1,13 @@
 #Clients-Section .clients-container {
   text-align: center;
-  padding: 50px 0;
+  padding: 30px 0;
   overflow: hidden;
   width: 100%;
 }
 
 #Clients-Section .nav-btn:hover {
   color: white !important;
-  background: #6F42C1 !important;
+  background: #CB41A4 !important;
 }
 
 #Clients-Section .content {

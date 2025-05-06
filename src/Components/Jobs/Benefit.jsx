@@ -11,7 +11,7 @@ const Benefit = () => {
       image: culture,
       title: "Culture",
       description:
-        "At DevFlux, we're bringing meaning change to clients business by enabling our people to create tools and processes that respond to the rapid evolution of the market. We are a culture that celebrates autonomy, and inspires leadership at every level of our organization.",
+        "At Nexora, we're bringing meaning change to clients business by enabling our people to create tools and processes that respond to the rapid evolution of the market. We are a culture that celebrates autonomy, and inspires leadership at every level of our organization.",
     },
     {
       id: "2",
@@ -25,7 +25,7 @@ const Benefit = () => {
   return (
     <>
       <section id="Benifits">
-        <h1 className="text-center p-4" style={{color:"#6F42C1"}}>What Are The Benefits?</h1>
+        <h1 className="text-center pt-4">What Are The Benefits?</h1>
         <div className="container w-100 mx-auto py-5">
           <div className="row w-100 mx-auto gy-4 ps-0 ps-md-5 ps-lg-5">
             {arr.map((v) => (
@@ -44,7 +44,7 @@ const Benefit = () => {
                   }}
                   className="m-3 p-2"
                 />
-                <h5 className="p-2" style={{color:"#6F42C1"}}>{v.title}</h5>
+                <h5 className="p-2" style={{color:"#B6288E"}}>{v.title}</h5>
                 <p className="ps-2" style={{textAlign:"justify"}}>{v.description}</p>
               </div>
             ))}

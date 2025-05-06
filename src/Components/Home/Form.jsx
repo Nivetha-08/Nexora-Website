@@ -50,10 +50,10 @@ const Form = () => {
       <section
         id="Form-Section"
         className="form-section p-md-5 mt-4 m-lg-5 p-3 rounded"
-        style={{backgroundColor:"#6F42C1"}}
+        style={{backgroundColor:"#F292D7"}}
       >
         <div className="row">
-          <div className="col-sm-12 col-md-6 text-light pe-5">
+          <div className="col-sm-12 col-md-6 pe-5">
             <h1>
               Bring Your Vision To <br /> Life Let's Connect
             </h1>
@@ -64,16 +64,16 @@ const Form = () => {
             </p>
             <div className="mail pb-3">
               <span className="icon-wrapper">
-                <a href="mailto:Contact@DevFlux.com">
+                <a href="mailto:Contact@Nexora.com">
                   <IoMdMailUnread />
                 </a>
               </span>
               <a
                 className="ms-2"
-                href="mailto:Contact@DevFlux.com"
-                style={{ color: "white", textDecoration: "none" }}
+                href="mailto:Contact@Nexora.com"
+                style={{ color: "black", textDecoration: "none" }}
               >
-                Contact@DevFlux.com
+                Contact@Nexora.com
               </a>
             </div>
           </div>
@@ -141,7 +141,8 @@ const Form = () => {
               </div>
 
               <div className="d-flex justify-content-end pt-4">
-                <button className="btn" style={{backgroundColor:"#6F42C1", color:"white"}} type="submit">
+                <button className="btn" type="submit"
+                style={{backgroundColor:"#F292D7"}}>
                   Submit
                 </button>
               </div>

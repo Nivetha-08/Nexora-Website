@@ -1,27 +1,22 @@
-/* #Specialisation .container {
-  background-color: white;
-  border-radius: 12px;
-  padding: 40px;
-} */
 #Specialisation button.active {
-  background-color: #6F42C1;
-  border: #6F42C1;
+  background-color: #CB41A4;
+  border: #CB41A4;
   color: white !important;
+  font-weight: bolder;
 }
 #Specialisation button:hover {
-  background-color: #6F42C1;
-  border: #6F42C1;
-  color: white !important;
+  background-color: #F292D7;
+  border: #F292D7;
 }
+
 #Specialisation img {
   min-width: 80%;
   max-height: 500px;
   border-radius: 12px;
 }
 #Specialisation .description {
-  /* width: 95%; */
+  width: 95%;
   margin: 0 auto;
-  text-align: center;
 }
 
 @media (max-width: 767px) {
@@ -41,5 +36,10 @@
   #Specialisation .col-lg-2 {
     flex: 0 0 auto;
     width: auto;
+  }
+  #Specialisation .description {
+    width: 65%;
+    margin: 0 auto;
+    text-align: justify;
   }
 }

@@ -8,7 +8,7 @@ const Responsibilities = () => {
   return (
     <>
       <section id="Responsibilities">
-        <h3 className="text-center pb-5">Web Developer Responsibilities:</h3>
+        <h3 className="text-center pb-4">Web Developer Responsibilities:</h3>
         <div className="row px-md-5 px-2 ">
           <div className="col-sm-12 col-md-6 ps-md-5 ps-sm-2">
             <div className="d-flex">

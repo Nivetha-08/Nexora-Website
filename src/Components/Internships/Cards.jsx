@@ -34,7 +34,7 @@ const Cards = () => {
       image: stimulating,
       title: "Highly Stimulating and Fun Working Environment",
       description:
-        "DevFlux internship will give you the chance to learn from and work with great colleagues who happen to be amazing at offering you the support needed for the development of your potential. And they'll make sure you're having fun on the way.",
+        "Splendenslab internship will give you the chance to learn from and work with great colleagues who happen to be amazing at offering you the support needed for the development of your potential. And they'll make sure you're having fun on the way.",
     },
   ];
 
@@ -58,7 +58,7 @@ const Cards = () => {
                 }}
                 className="m-3 p-2"
               />
-              <h5 className="p-2" style={{color:"#6F42C1"}}>{v.title}</h5>
+              <h5 className="p-2" style={{color:"#B6288E"}}>{v.title}</h5>
               <p className="ps-2" style={{textAlign:"justify"}}>{v.description}</p>
             </div>
           ))}

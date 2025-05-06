@@ -14,11 +14,11 @@ const Clients = () => {
     infinite: true,
     slidesToShow: 3,
     slidesToScroll: 1,
-    autoplay: true,
-    speed: 5000,
-    autoplaySpeed: 5000,
-    cssEase: "linear",
-    pauseOnHover: true,
+    // autoplay: true,
+    // speed: 2000,
+    // autoplaySpeed: 2000,
+    // cssEase: "linear",
+    // pauseOnHover: true,
     responsive: [
       {
         breakpoint: 767,
@@ -72,8 +72,8 @@ const Clients = () => {
   return (
     <section id="Clients-Section">
       <div className="clients-container">
-        <h1 className="text-center heading">What Our Clients Say</h1>
-        <p className="content py-3 px-2">
+        <h1 className="text-center heading mt-3 mt-md-0">What Our Clients Say</h1>
+        <p className="content text-center py-3 px-2">
           Our clients love sharing their experiences with us. their feedback
           inspiresus to keep delivering excellence
         </p>
@@ -98,12 +98,12 @@ const Clients = () => {
           </Slider>
 
           {/* Navigation Buttons */}
-          {/* <div className="btn-group">
+          <div className="btn-group">
             <button
               aria-label="Previous Slide"
               style={{
-                border: "2px solid #6F42C1",
-                color: "#6F42C1",
+                border: "2px solid #CB41A4",
+                color: "#CB41A4",
                 background: "white",
                 borderRadius: "50%",
                 fontSize: "15px",
@@ -117,8 +117,8 @@ const Clients = () => {
             <button
               aria-label="Next Slide"
               style={{
-                border: "2px solid #6F42C1",
-                color: "#6F42C1",
+                border: "2px solid#CB41A4",
+                color: "#CB41A4",
                 background: "white",
                 borderRadius: "50%",
                 fontSize: "15px",
@@ -130,7 +130,7 @@ const Clients = () => {
             >
               <FaChevronRight />
             </button>
-          </div> */}
+          </div>
         </div>
       </div>
     </section>

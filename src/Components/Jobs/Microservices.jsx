@@ -8,10 +8,10 @@ const Microservices = () => {
   return (
     <>
       <section id="Microservices">
-        <h1 className="text-center p-3" style={{color:"#6F42C1"}}>
+        <h1 className="text-center p-3" style={{color:"#B6288E"}}>
           Microservices Developer
         </h1>
-        <h3 className="text-center pb-5">
+        <h3 className="text-center pb-4">
           Microservices Developer Duties And Responsibilities
         </h3>
         <div className="row px-md-5 px-2 ">

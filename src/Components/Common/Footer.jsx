@@ -14,9 +14,9 @@ const Footer = () => {
 
       <div className="row g-4">
         <div className="col-12 col-md-3">
-          <h6 className="" style={{color:"#6F42C1"}}>DevFlux IT Venture Pvt Ltd</h6>
+          <h6 style={{color:" #B6288E"}}>Nexora IT Venture Pvt Ltd</h6>
           <div className="d-flex align-items-start gap-2">
-            <SlLocationPin className="location-icon" />
+            <SlLocationPin className="location-icon" style={{color:"#B6288E"}} />
             <div>
               1/234-5, A.B.C Complex <br /> ABC Nagar, <br /> Salem,
               Tamilnadu, India
@@ -25,7 +25,7 @@ const Footer = () => {
         </div>
 
         <div className="col-12 col-md-3">
-          <h6 className="" style={{color:"#6F42C1"}}>Connect with Us</h6>
+          <h6 style={{color:" #B6288E"}}>Connect with Us</h6>
           <div className="social-icons pt-2 d-flex gap-2">
             <a href="#" className="icon">
               <RiFacebookLine />
@@ -46,7 +46,7 @@ const Footer = () => {
         </div>
 
         <div className="col-12 col-md-3 ">
-          <h6 className="" style={{color:"#6F42C1"}}>Company</h6>
+          <h6 style={{color:" #B6288E"}}>Company</h6>
           <div className="footLinks pt-2">
             <NavLink to={"/"}>Home</NavLink>
             <NavLink to={"/about"}>About</NavLink>
@@ -58,8 +58,8 @@ const Footer = () => {
         </div>
 
         <div className="col-12 col-md-3 footLinks">
-          <h6 className="" style={{color:"#6F42C1"}}>Contact Us</h6>
-          <a href="mailto:Contact@DevFlux.com">Contact@DevFlux.com</a>
+          <h6 style={{color:" #B6288E"}}>Contact Us</h6>
+          <a href="mailto:Contact@Nexora.com">Contact@Nexora.com</a>
         </div>
       </div>
     </footer>

@@ -25,15 +25,16 @@
 }
 
 #Links .nav-item .a:hover {
-  background-color: #6F42C1;
-  color: white;
+  background-color: #F292D7;
+  color: black;
   border-radius: 50px;
 }
 
 #Links .nav-container .nav-item a.a.active {
-  background-color: #6F42C1 !important;
+  background-color: #CB41A4 !important;
   color: white !important;
   border-radius: 50px;
+  font-weight: bolder;
 }
 
 @media (min-width: 1025px) {

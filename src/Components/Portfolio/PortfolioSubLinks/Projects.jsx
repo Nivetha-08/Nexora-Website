@@ -23,7 +23,7 @@ const Projects = () => {
       <div>
         <div id="Projects" className="text-center p-5">
           <h1>{product.title}</h1>
-          <h6 className="pt-3 text-primary">{product.subheading}</h6>
+          <h6 className="pt-3" style={{color:"#B6288E"}}>{product.subheading}</h6>
         </div>
         <div className="container">
           <div className="mx-0 mx-md-5 mb-5 ">
