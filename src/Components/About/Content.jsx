@@ -10,7 +10,7 @@ const Content = () => {
   
   return (
     <section id="Content-Section" className="container">
-      <div className="content-row row p-md-5 p-3">
+      <div className="content-row row p-md-0 p-3">
         <div className="col-md-6 content-text">
           <h1>WHO WE ARE ?</h1>
           <p>
@@ -31,7 +31,7 @@ const Content = () => {
         </div>
       </div>
 
-      <div className="content-row row p-md-5 p-3 flex-md-row-reverse">
+      <div className="content-row row p-md-0 p-3 flex-md-row-reverse">
         <div className="col-md-6 content-text">
           <h1>WHAT'S OUR SECRET ?</h1>
           <p>
@@ -45,7 +45,7 @@ const Content = () => {
         </div>
       </div>
 
-      <div className="content-row row p-md-5 p-3">
+      <div className="content-row row p-md-0 p-3">
         <div className="col-md-6 content-text">
           <h1>OUR PROCESS</h1>
           <p>
@@ -59,7 +59,7 @@ const Content = () => {
         </div>
       </div>
 
-      <div className="content-row row p-md-5 p-3 flex-md-row-reverse">
+      <div className="content-row row p-md-0 p-3 flex-md-row-reverse">
         <div className="col-md-6 content-text">
           <h1>OUR PEOPLE</h1>
           <p>

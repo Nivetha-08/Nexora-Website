@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import axios from "axios";
 import { NavLink } from "react-router-dom";
 
-const URL = `http://localhost:3001/microApps`;
+const URL = `https://server-1-7xzj.onrender.com/microApps`;
 
 const MobileApplication = () => {
   // console.log("PortfolioSublinks MobileApplication render");
